@@ -1,2 +1,3 @@
-Week 1 Git & GitHub Training
-This repository is created for Git and GitHub basic training.
+Training Objectives
+- Learn Git basic operations.
+- Understand branching and Pull Requests.
