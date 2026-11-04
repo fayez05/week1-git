@@ -1,3 +1,4 @@
-Training Objectives
+# Training Objectives
+
 - Learn Git basic operations.
-- Understand branching and Pull Requests.
+- Practice Git branching and Pull Requests.
